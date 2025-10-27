@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VenuOnTech
-- 👀 I’m interested in Software Engineering and Web Development
+- 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently a B. Tech 2nd year Student
 - 💞️ I’m looking to collaborate on Developers
 - 📫 How to reach me ...
